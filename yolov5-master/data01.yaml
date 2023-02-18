@@ -1,0 +1,5 @@
+train: /Users/sasusi/Desktop/karpao_horapa/train/images
+val: /Users/sasusi/Desktop/karpao_horapa/valid/images
+
+nc: 4
+names: ['-', 'Horapa', 'horapa', 'kapao']
