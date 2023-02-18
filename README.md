@@ -14,11 +14,9 @@ I used robotflow to to do these tasks.
 <br/>
 
 <p align="center">
-    <img width="1352" alt="Screenshot 2566-02-18 at 22 03 19" src="https://user-images.githubusercontent.com/57711760/219872896-762556fb-0302-4127-8b37-
-    020f6b37235a.png">
+    <img width="1352" alt="Screenshot 2566-02-18 at 22 16 07" src="https://user-images.githubusercontent.com/57711760/219873533-0ba57398-5a71-48f9-8fef-ce57f328948d.png">
  </p>
  <br/>
  <p align="center">
-  <img width="1352" alt="Screenshot 2566-02-18 at 22 04 16" src="https://user-images.githubusercontent.com/57711760/219872966-ba510ab6-e2ba-4e62-8443-
-       8f64a98437b7.png">
+    <img width="1352" alt="Screenshot 2566-02-18 at 22 04 16" src="https://user-images.githubusercontent.com/57711760/219873549-98850fb0-ea3a-4214-9319-9d766b25e599.png">
  </p>
