@@ -2,9 +2,11 @@
 <br/>
 This is an Object Detection Model for Holy Basil and Sweet Basil.
 <br/>
+<br/>
 ## DataSets
 <br/>
 https://github.com/TAUTOLOGY-EDUCATION/DATASET/tree/main/HorapaVsKaprao
+<br/>
 <br/>
 ## Label,preprocess and split dataset to train, test, valid
 <br/>
