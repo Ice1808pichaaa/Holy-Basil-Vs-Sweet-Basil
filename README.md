@@ -8,4 +8,3 @@ This is an Object Detection Model for Holy Basil and Sweet Basil.
 
 <br/>
 https://github.com/TAUTOLOGY-EDUCATION/DATASET/tree/main/HorapaVsKaprao
-
